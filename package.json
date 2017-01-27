@@ -25,5 +25,13 @@
   "main": "app.js",
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrEi91/pairprojectsystem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MrEi91/pairprojectsystem/issues"
+  },
+  "homepage": "https://github.com/MrEi91/pairprojectsystem#readme",
   "description": ""
 }
