@@ -8,7 +8,7 @@ module.exports = function(sequelize, DataTypes) {
     classMethods: {
       associate: function(models) {
         // associations can be defined here
-        User.hasMany(Result_detail, {as:'id'})
+        // User.hasMany(Result_detail, {as:'id'})
       }
     }
   });
