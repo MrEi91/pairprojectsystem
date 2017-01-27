@@ -19,4 +19,8 @@ router.get('/about', function(req, res){
   res.render('pages/about', { title: 'Pair Project System' });
 })
 
+router.post('/addStudent', function(req, res){
+  models.User.create()
+})
+
 module.exports = router;
